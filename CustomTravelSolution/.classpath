@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/lib/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/learning/Project Stuff/jar_files/webdrivermanager-4.4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
